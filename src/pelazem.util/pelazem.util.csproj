@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFrameworks>netstandard2.1;net6.0</TargetFrameworks>
-		<SignAssembly>True</SignAssembly>
+		<SignAssembly>False</SignAssembly>
 		<DelaySign>false</DelaySign>
 		<AssemblyOriginatorKeyFile>C:\Sync\patrick\Documents\Code\pelazem.snk</AssemblyOriginatorKeyFile>
 		<NeutralLanguage>en-US</NeutralLanguage>
